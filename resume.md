@@ -1,6 +1,6 @@
 ## Experience
 
-**Principal Security Engineer**  (December 2021 - Present)
+**Principal Security Engineer**  (December 2021 - Present)\
 Indiana University - University Information Security Office (UISO)
 
 * Automate threat detection and remediation by building queries, visualizations, and dashboards in Elastic Kibana, Microsoft Sentinel, and Microsoft Defender.
@@ -20,7 +20,7 @@ Indiana University - University Information Security Office (UISO)
 * Represented University Information Security Office and Indiana University while consulting for, and collaborating with, other universities and organizations.
 * Strove to foster a high-trust culture, both within my team, university IT, and the university as a whole by promoting transparency, encouraging frequent feedback, and prioritizing the organization over the individual.
 
-**Principal DevOps Engineer**  (September 2018 - December 2021)
+**Principal DevOps Engineer**  (September 2018 - December 2021)\
 Indiana University - Enterprise Microsoft Administration (EMA, formerly CCI as seen below)
 
 * Led a team of two other developers to build applications that supported critical enterprise services for use by systems engineers and support teams.
@@ -32,7 +32,7 @@ Indiana University - Enterprise Microsoft Administration (EMA, formerly CCI as s
 * Implemented Octopus Deploy service (CD) to deploy applications, configure websites, and publish NuGet packages across test, stage, and production environments.
 * Designed new Azure DevOps Pipelines and migrated old CI/CD pipelines to this service.
 
-**Systems Engineer**  (January 2014 - September 2018)
+**Systems Engineer**  (January 2014 - September 2018)\
 Indiana University - Campus Communications Infrastructure (CCI)
 
 * Installed, configured, and performed maintenance on critical enterprise on-premises services including:
@@ -52,7 +52,7 @@ Indiana University - Campus Communications Infrastructure (CCI)
 * Automated administrative tasks using PowerShell, scheduled tasks, and custom tools.
 * Worked with other teams to integrate services and provided advanced troubleshooting.
 
-**User Support Specialist**  (June 2012 - January 2014)
+**User Support Specialist**  (June 2012 - January 2014)\
 Indiana University - UITS Executive and Internal Technology Services (EITS)
 
 * Provided technical assistance for UITS and executive level staff.
@@ -62,7 +62,7 @@ Indiana University - UITS Executive and Internal Technology Services (EITS)
 * Managed multiple file and print services across campus.
 * Worked closely with other IU teams providing advanced troubleshooting and other assistance where needed to ensure a high level of support to users.
 
-**User Support Specialist / System Administrator / Webmaster**  (August 2007 - June 2012)
+**User Support Specialist / System Administrator / Webmaster**  (August 2007 - June 2012)\
 Indiana University - UITS Support Center
 
 * Responsible for overseeing daily operations of the 24x7 UITS Support Center and supervising hourly staff including several hourly supervisors.
