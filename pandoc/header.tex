@@ -1,0 +1,18 @@
+\usepackage{setspace} % Support for setting spacing
+\onehalfspacing % Use one half spacing
+\setlength{\parskip}{1em} % Set spacing after a paragraph
+\usepackage{enumitem} % List display configuration
+\setlistdepth{20}
+\renewlist{itemize}{itemize}{20}
+\renewlist{enumerate}{enumerate}{20}
+\setlist[itemize]{label=$\cdot$}
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=--}
+\setlist[itemize,3]{label=*}
+\usepackage{float} % Manages the placement and display of images
+\floatplacement{figure}{H} % Place the image where it is in the document (approximately)
+\usepackage{fancyhdr} % Manage the headers
+\pagestyle{fancy}
+\lhead{\Huge \scshape Thomas Reynolds} % Left header, huge font, small caps
+\rhead{email: hire\_me\char0064tjreynolds\char0046io \\ phone: (\char0056\char0049\char0050) \char0050\char0057\char0055-\char0053\char048\char0054\char0049} % Right header, regular font, two lines
+\setlength{\headheight}{25pt} % Spacing after the header
