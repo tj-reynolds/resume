@@ -21,7 +21,7 @@ Indiana University - University Information Security Office (UISO)
 * Strove to foster a high-trust culture, both within my team, university IT, and the university as a whole by promoting transparency, encouraging frequent feedback, and prioritizing the organization over the individual.
 
 **Principal DevOps Engineer**  (September 2018 - December 2021)\
-Indiana University - Enterprise Microsoft Administration (EMA, formerly CCI as seen below)
+Indiana University - Enterprise Microsoft Administration (EMA, previously part of CCI as seen below)
 
 * Led a team of two other developers to build applications that supported critical enterprise services for use by systems engineers and support teams.
 * Designed API endpoints used by web applications to perform administrative tasks for various services.
