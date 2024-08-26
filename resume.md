@@ -3,8 +3,10 @@
 **Principal Security Engineer**  (December 2021 - Present)\
 Indiana University - University Information Security Office (UISO)
 
+* Served as interim manager for the Security Engineering team during a six month hiring process where I additionally served on the hiring committee and later brought the new manager up to speed with the day to day operations of the team.
 * Automate threat detection and remediation by building queries, visualizations, and dashboards in Elastic Kibana, Microsoft Sentinel, and Microsoft Defender.
-* Led project to deploy, configure, and monitor XDR solution to over 4,000 enterprise servers using CrowdStrike and over 15,000 user workstations using Microsoft Defender for Endpoint.
+* Led project to deploy, configure, and monitor EDR/XDR solution to over 4,000 enterprise servers using CrowdStrike and over 25,000 user workstations using Microsoft Defender for Endpoint.
+* Designed and implemented a virtual detection lab used to test and analyze emerging threats.
 * Proactively seek out anomalies in network and security telemetry.
 * Conduct risk assessments for mission critical services and provide recommendations and guidance to service owners and senior leadership.
 * Create alerts on targeted tactics, techniques, and procedures and reduce false positives by writing and tuning Zeek scripts, Suricata rules, and Kusto queries.
